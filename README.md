@@ -3,5 +3,5 @@
 
 ## Developers ##
 
- - Danilo Ramírez Mattey (danilo.ramirez@lionbridge.com)
+ - Danilo Ramírez Mattey
 
